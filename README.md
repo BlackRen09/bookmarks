@@ -2,8 +2,7 @@
 这是一个书签仓库
 
 ### 一些关于编程比较有用的博客
-* <a href="http://blog.csdn.net/michaelzhou224/article/details/16818007">
-oracle数据库实例与数据库关系</a>
+* <a href="http://blog.csdn.net/michaelzhou224/article/details/16818007">oracle数据库实例与数据库关系</a>
 * <a href="http://www.2cto.com/database/201308/235706.html">ORA-12514 ,ORA-00119, ORA-00132解决</a>
 * <a href="http://blog.csdn.net/superdog007/article/details/22651577">JPA</a>
 * <a href="http://blog.csdn.net/taiyangdao/article/details/50559952">JAVA EE(CSDN博客)入口</a>
